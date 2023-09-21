@@ -611,6 +611,11 @@ footer {
         display: none;
     }
 
+    .banner-image img {
+        width: 390px !important;
+    }
+
+
     .left {
         padding-top: 3rem;
         justify-content: center;
